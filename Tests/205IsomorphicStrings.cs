@@ -20,4 +20,5 @@ public class IsomorphicStringTests
         var result = thing.IsIsomorphic("baba", "babc");
         Assert.IsFalse(result);
     }
+    
 }
